@@ -1,0 +1,8 @@
+This is a sample text file.
+It contains some lines of text for testing purposes.
+
+Line 1: This is the first line.
+Line 2: Here is another line with your_pattern.
+Line 3: No match in this line.
+Line 4: Yet another line with your_pattern.
+Line 5: End of the file.
