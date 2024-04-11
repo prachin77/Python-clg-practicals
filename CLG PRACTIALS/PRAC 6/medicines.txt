@@ -1,0 +1,6 @@
+1,Paracetamol,5.50,2025-12-31,ABC Pharma
+2,Ibuprofen,7.20,2024-10-15,XYZ Pharmaceuticals
+3,Aspirin,3.80,2023-08-20,PQR Meds
+4,Paracetamol,5.50,2025-12-31,ABC Pharma
+5,Cetirizine,4.00,2024-06-30,DEF Drugs
+6,Aspirin,3.80,2023-08-20,PQR Meds
